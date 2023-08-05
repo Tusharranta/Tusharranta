@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript , React , CSS3 , Bootstrap ,HTML5**
+- 💬 Ask me about **JavaScript , React , CSS3 , Bootstrap , HTML5**
 
 - 📫 How to reach me **tusharranta54@gmail.com**
 

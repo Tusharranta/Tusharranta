@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **React is all about building reusable components !**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="www.linkedin.com/in/tushar-ranta-237a3a284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-ranta" height="30" width="40" /></a>
 <a href="https://fb.com/tushar ranta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tushar ranta" height="30" width="40" /></a>

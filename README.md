@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **Did you know that the first version of JavaScript was created in just 10 days !**
 
+- ⚡ Fun fact **React is all about building reusable components !**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/tushar-ranta-237a3a284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-ranta" height="30" width="40" /></a>

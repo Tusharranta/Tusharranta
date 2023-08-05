@@ -1,4 +1,5 @@
-![logo](https://www.canva.com/design/DAFqIeeoVt8/n-kybsiaZkTgIFwOPTnyeQ/watch?utm_content=DAFqIeeoVt8&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
+<p><img align="center" src="https://www.canva.com/design/DAFqIeeoVt8/n-kybsiaZkTgIFwOPTnyeQ/watch?utm_content=DAFqIeeoVt8&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish" alt="tusharranta" /></p>
+<!-- ![logo](https://www.canva.com/design/DAFqIeeoVt8/n-kybsiaZkTgIFwOPTnyeQ/watch?utm_content=DAFqIeeoVt8&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish) -->
 <h1 align="center">Hi 👋, I'm Tushar Ranta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
